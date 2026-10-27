@@ -1,0 +1,13 @@
+(Fixture tổng hợp mô phỏng Windows tiếng Việt: nhãn đã dịch, KHÔNG phải ảnh chụp từ máy thật)
+
+Tên giao diện : Wi-Fi 
+Hiện có 1 mạng. 
+
+SSID 1 : Nhà Tôi
+    Loại mạng               : Cơ sở hạ tầng
+    Xác thực                : WPA2-Personal
+    Mã hóa                  : CCMP 
+    BSSID 1                 : aa:bb:cc:00:00:09
+         Tín hiệu           : 77%  
+         Loại radio         : 802.11ac
+         Kênh               : 44 

@@ -1,0 +1,36 @@
+
+Interface name : Wi-Fi 
+There are 3 networks currently visible. 
+
+SSID 1 : HomeNet
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : aa:bb:cc:00:00:01
+         Signal             : 90%  
+         Radio type         : 802.11ax
+         Band               : 5 GHz 
+         Channel            : 36 
+         Basic rates (Mbps) : 6 12 24
+         Connected Stations : 7
+    BSSID 2                 : aa:bb:cc:00:00:02
+         Signal             : 60%  
+         Radio type         : 802.11n
+         Band               : 2.4 GHz 
+         Channel            : 6 
+
+SSID 2 : 
+    Network type            : Infrastructure
+    Authentication          : Open
+    Encryption              : None 
+    BSSID 1                 : aa:bb:cc:00:00:03
+         Signal             : 20%  
+         Radio type         : 802.11g
+         Channel            : 11 
+
+SSID 3 : Quán Cà Phê Sài Gòn : 5G
+    Network type            : Infrastructure
+    Authentication          : WPA3-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : not-a-mac
+         Signal             : 50%  

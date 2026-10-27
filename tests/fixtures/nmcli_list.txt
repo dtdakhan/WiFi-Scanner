@@ -1,0 +1,7 @@
+*:Nhà Hàng Phở 24:AA\:BB\:CC\:00\:00\:01:Infra:6:2437 MHz:82:WPA2
+:Cafe\: Wi-Fi:AA\:BB\:CC\:00\:00\:02:Infra:36:5180 MHz:55:WPA2 WPA3
+:Nhà Hàng Phở 24:AA\:BB\:CC\:00\:00\:03:Infra:149:5745 MHz:40:WPA2
+::AA\:BB\:CC\:00\:00\:04:Infra:1:2412 MHz:30:
+:NoMac:ZZ\:BB:Infra:1:2412 MHz:30:WPA2
+:TooFewFields:AA\:BB\:CC\:00\:00\:05:Infra
+:6GHz Net:AA\:BB\:CC\:00\:00\:06:Infra:5:6475 MHz:70:WPA3
